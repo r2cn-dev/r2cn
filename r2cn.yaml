@@ -1,0 +1,14 @@
+repos:
+- name: "benjamin-747/r2cn-bot-test"
+  maintainers:
+  - login: "benjamin-747"
+    task: 10
+    maxScore: 20
+- name: "r2cn-dev/task-testing"
+  maintainers:
+  - login: "benjamin-747"
+    task: 1
+    maxScore: 20
+  - login: "genedna"
+    task: 1
+    maxScore: 20
