@@ -7,8 +7,13 @@ repos:
 - name: "r2cn-dev/task-testing"
   maintainers:
   - login: "benjamin-747"
-    task: 1
+    task: 10
+    maxScore: 20
+- name: "web3infra-foundation/mega"
+  maintainers:
+  - login: "benjamin-747"
+    task: 3
     maxScore: 20
   - login: "genedna"
-    task: 1
+    task: 3
     maxScore: 20
