@@ -1,7 +1,7 @@
 ---
 name: apply
 about: 开源项目提交申请加入 R2CN 计划的模板
-title: "[Apply to Join R2CN]"
+title: "[Apply to Join R2CN] "
 labels: apply
 assignees: chitaka, genedna
 
