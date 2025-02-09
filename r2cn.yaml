@@ -2,28 +2,28 @@ repos:
   - name: "web3infra-foundation/mega"
     maintainers:
       - id: "benjamin-747"
-        task: 3
-        maxScore: 20
+        task: 10
+        maxScore: 30
       - id: "genedna"
-        task: 3
-        maxScore: 20
+        task: 30
+        maxScore: 50
   - name: "r2cn-dev/rk8s"
     maintainers:
       - id: "genedna"
-        task: 3
+        task: 30
         maxScore: 50
       - id: "chitaka"
         task: 3
-        maxSore: 10
+        maxSore: 20
       - id: "uyuang"
         task: 3
-        maxScore: 10
+        maxScore: 20
       - id: "InfoHunter"
         task: 3
-        maxScore: 10
+        maxScore: 20
       - id: "xiaods"
         task: 3
-        maxScore: 10
+        maxScore: 20
       - id: "fleeto"
         task: 3
-        maxScore: 10
+        maxScore: 20
