@@ -27,3 +27,8 @@ repos:
       - id: "fleeto"
         task: 3
         maxScore: 20
+  - name: "TuGraph-family/miniGU"
+    maintainers:
+      - id: "qishipengqsp"
+        task: 3
+        maxScore: 50
