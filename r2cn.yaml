@@ -32,3 +32,8 @@ repos:
       - id: "qishipengqsp"
         task: 3
         maxScore: 30
+  - name: "rustfs/rustfs"
+    maintainers:
+      - id: "loverustfs"
+        task: 3
+        maxScore: 30
