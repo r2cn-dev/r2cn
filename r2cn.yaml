@@ -7,26 +7,14 @@ repos:
       - id: "genedna"
         task: 30
         maxScore: 50
-  - name: "r2cn-dev/rk8s"
+  - name: "rk8s-dev/rk8s"
     maintainers:
       - id: "genedna"
         task: 30
         maxScore: 50
-      - id: "chitaka"
-        task: 3
-        maxSore: 20
-      - id: "uyuang"
-        task: 3
-        maxScore: 20
-      - id: "InfoHunter"
-        task: 3
-        maxScore: 20
-      - id: "xiaods"
-        task: 3
-        maxScore: 20
-      - id: "fleeto"
-        task: 3
-        maxScore: 20
+      - id: "benjamin-747"
+        task: 10
+        maxScore: 30
   - name: "TuGraph-family/miniGU"
     maintainers:
       - id: "qishipengqsp"
