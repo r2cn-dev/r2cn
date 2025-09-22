@@ -6,7 +6,7 @@ repos:
         maxScore: 50
       - id: "genedna"
         task: 20
-        maxScore: 50
+        maxScore: 80
   - name: "web3infra-foundation/libra"
     maintainers:
       - id: "benjamin-747"
@@ -14,12 +14,12 @@ repos:
         maxScore: 50
       - id: "genedna"
         task: 20
-        maxScore: 50
+        maxScore: 80
   - name: "rk8s-dev/rk8s"
     maintainers:
       - id: "genedna"
         task: 20
-        maxScore: 50
+        maxScore: 80
       - id: "benjamin-747"
         task: 20
         maxScore: 50
