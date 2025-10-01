@@ -3,7 +3,7 @@ repos:
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 50
+        maxScore: 80
       - id: "genedna"
         task: 20
         maxScore: 80
@@ -11,7 +11,7 @@ repos:
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 50
+        maxScore: 80
       - id: "genedna"
         task: 20
         maxScore: 80
@@ -19,7 +19,7 @@ repos:
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 50
+        maxScore: 80
       - id: "genedna"
         task: 20
         maxScore: 80
@@ -27,7 +27,7 @@ repos:
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 50
+        maxScore: 80
       - id: "genedna"
         task: 20
         maxScore: 80        
