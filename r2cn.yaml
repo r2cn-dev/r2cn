@@ -49,3 +49,8 @@ repos:
       - id: "loverustfs"
         task: 3
         maxScore: 30
+  - name: "genmeta/gm-quic"
+    maintainers:
+      - id: "huster-zhangpeng"
+        task: 3
+        maxScore: 30
