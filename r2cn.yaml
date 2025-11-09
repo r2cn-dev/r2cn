@@ -30,7 +30,15 @@ repos:
         maxScore: 80
       - id: "genedna"
         task: 20
-        maxScore: 80        
+        maxScore: 80
+  - name: "buck2hub/cargo-buckal"
+      maintainers:
+      - id: "benjamin-747"
+        task: 20
+        maxScore: 80
+      - id: "genedna"
+        task: 20
+        maxScore: 80
   - name: "rk8s-dev/rk8s"
     maintainers:
       - id: "genedna"
