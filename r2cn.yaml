@@ -50,7 +50,7 @@ repos:
   - name: "TuGraph-family/miniGU"
     maintainers:
       - id: "qishipengqsp"
-        task: 3
+        task: 10
         maxScore: 30
   - name: "rustfs/rustfs"
     maintainers:
