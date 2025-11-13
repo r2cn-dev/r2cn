@@ -42,8 +42,8 @@ repos:
   - name: "rk8s-dev/rk8s"
     maintainers:
       - id: "genedna"
-        task: 20
-        maxScore: 80
+        task: 40
+        maxScore: 100
       - id: "benjamin-747"
         task: 20
         maxScore: 50
