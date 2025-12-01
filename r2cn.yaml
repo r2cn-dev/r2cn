@@ -55,8 +55,8 @@ repos:
   - name: "rustfs/rustfs"
     maintainers:
       - id: "loverustfs"
-        task: 3
-        maxScore: 30
+        task: 5
+        maxScore: 60
   - name: "genmeta/gm-quic"
     maintainers:
       - id: "huster-zhangpeng"
