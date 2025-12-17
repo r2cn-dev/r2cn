@@ -3,7 +3,7 @@ repos:
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 80
+        maxScore: 120
       - id: "genedna"
         task: 20
         maxScore: 80
@@ -11,47 +11,47 @@ repos:
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 80
+        maxScore: 120
       - id: "genedna"
         task: 20
-        maxScore: 80
+        maxScore: 120
   - name: "web3infra-foundation/git-internal"
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 80
+        maxScore: 120
       - id: "genedna"
         task: 20
-        maxScore: 80
+        maxScore: 120
   - name: "web3infra-foundation/kinko"
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 80
+        maxScore: 120
       - id: "genedna"
         task: 20
-        maxScore: 80
+        maxScore: 120
   - name: "buck2hub/cargo-buckal"
     maintainers:
       - id: "benjamin-747"
         task: 20
-        maxScore: 80
+        maxScore: 120
       - id: "genedna"
         task: 20
-        maxScore: 80
+        maxScore: 120
   - name: "rk8s-dev/rk8s"
     maintainers:
       - id: "genedna"
         task: 40
-        maxScore: 100
+        maxScore: 120
       - id: "benjamin-747"
         task: 20
-        maxScore: 50
+        maxScore: 120
   - name: "TuGraph-family/miniGU"
     maintainers:
       - id: "qishipengqsp"
         task: 10
-        maxScore: 30
+        maxScore: 60
   - name: "rustfs/rustfs"
     maintainers:
       - id: "loverustfs"
