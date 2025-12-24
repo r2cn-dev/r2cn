@@ -54,7 +54,7 @@ repos:
         maxScore: 120
       - id: "genedna"
         task: 20
-        maxScore: 120        
+        maxScore: 120
   - name: "rk8s-dev/rk8s"
     maintainers:
       - id: "genedna"
@@ -78,3 +78,8 @@ repos:
       - id: "huster-zhangpeng"
         task: 3
         maxScore: 30
+  - name: "r2cn-dev/r2cn-mentor-link"
+    maintainers:
+      - id: "benjamin-747"
+        task: 3
+        maxScore: 40
