@@ -31,6 +31,14 @@ repos:
       - id: "genedna"
         task: 20
         maxScore: 120
+  - name: "web3infra-foundation/overlayward"
+    maintainers:
+      - id: "benjamin-747"
+        task: 20
+        maxScore: 120
+      - id: "genedna"
+        task: 20
+        maxScore: 120
   - name: "buck2hub/cargo-buckal"
     maintainers:
       - id: "benjamin-747"
