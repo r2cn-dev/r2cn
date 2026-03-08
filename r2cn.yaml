@@ -84,7 +84,7 @@ repos:
   - name: "genmeta/gm-quic"
     maintainers:
       - id: "huster-zhangpeng"
-        task: 3
+        task: 6
         maxScore: 30
   - name: "r2cn-dev/r2cn-mentor-link"
     maintainers:
